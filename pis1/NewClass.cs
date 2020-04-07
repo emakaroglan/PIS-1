@@ -8,5 +8,6 @@ namespace pis1
 {
 	class NewClass
 	{
+		//just how fast the night chaaaaangeeeees
 	}
 }

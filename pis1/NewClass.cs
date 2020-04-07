@@ -8,9 +8,10 @@ namespace pis1
 {
 	class NewClass
 	{
-		static void Main(string[] args)
-		{
-			
-		}
+<<<<<<< HEAD
+		
+=======
+		//just how fast the night chaaaaangeeeees
+>>>>>>> 542742b7120cd9ca2ac57b4da66176ef0667ad9c
 	}
 }
